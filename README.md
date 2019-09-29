@@ -1,3 +1,3 @@
 # Test_CI_projects
 testing composer plus ci 
-testing out commits
+testing out commits and such #
